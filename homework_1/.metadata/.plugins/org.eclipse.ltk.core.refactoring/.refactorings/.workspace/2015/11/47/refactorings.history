@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;GeolocationOnTizen&apos; to &apos;20121581 김현우&apos;" description="Rename resource &apos;GeolocationOnTizen&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/GeolocationOnTizen" name="20121581 김현우" stamp="1447674967165" updateReferences="true"/>
+</session>
